@@ -1,4 +1,4 @@
-# Image List
+# Image Search Display
 
 React Practice Session:
 
